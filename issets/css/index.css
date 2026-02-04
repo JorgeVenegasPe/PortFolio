@@ -194,7 +194,7 @@ header.sticky .nav-bar{
 .home-container .info p {
     color: var(--third-color);
     font-size: var(--normal-font-size);
-    max-width: 350px;
+    max-width: 450px;
 }
 
 .btn{
@@ -313,7 +313,7 @@ header.sticky .nav-bar{
 }
 
 .about-info .description{
-    max-width: 600px;
+    max-width: 650px;
 }
 
 .about-info .description h3{
@@ -367,7 +367,7 @@ header.sticky .nav-bar{
 }
 
 .habilidades-description{
-    max-width: 700px;
+    max-width: 1000px;
     margin-bottom: 50px;
 }
 
@@ -476,6 +476,10 @@ header.sticky .nav-bar{
 .bar .js:before{
     width: 40%;
 }
+
+.bar .otro:before{
+    width: 30%;
+} 
 
 .bar .php:before{
     width: 75%;
